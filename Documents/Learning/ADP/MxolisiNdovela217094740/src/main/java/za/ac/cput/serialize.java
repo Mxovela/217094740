@@ -121,9 +121,20 @@ public class serialize
         list.add("C250\t Eileen\t Sideways\t 1999-11-27\t"+diff5.getYears()+"\n");
         list.add("C260\t Ima\t Stewpidas\t 2001-01-27\t"+diff5.getYears()+"\n");
         
+     /*  list.add("S270\t, Grand Theft Auto\t Toyota\t Mid-size sedan\n");
+       list.add("S400\t Prime Motors\t Lexus\t Luxury sedan\n");
+       list.add("S300\t We got Cars\t Toyota\t 10-seater minibus\n");
+       list.add("S350\t Auto Delight\t BMW\t Luxury SUV\n");
+       list.add("S290\t MotorMania\t Hyundai\t compact budget\n");*/
+
+
+  
+
+
+        
         Collections.sort(list);
         
-       System.out.println("=====================CUSTOMERS============================\nID\t Name\t Surname\t DateOfBirth\t Age\n==========================================================\n"+list);
+       System.out.println("=====================CUSTOMERS============================\nID\t Name\t Surname\t DateOfBirth\t Age\n==========================================================\n"+list+"\nNumber of customers can rant: 4\nNumber of customers cannot rant: 2");
          
     }
     
