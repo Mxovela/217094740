@@ -1,0 +1,20 @@
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\bin\Debug\QiuzGame1.0.0.exe.config
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\bin\Debug\QiuzGame1.0.0.exe
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\bin\Debug\QiuzGame1.0.0.pdb
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.csprojAssemblyReference.cache
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1._0._0.Form1.resources
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1._0._0.Properties.Resources.resources
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.csproj.GenerateResource.cache
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.exe
+C:\Users\MXO\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.pdb
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\bin\Debug\QiuzGame1.0.0.dll.config
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\bin\Debug\QiuzGame1.0.0.dll
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\bin\Debug\QiuzGame1.0.0.pdb
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.csprojAssemblyReference.cache
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1._0._0.Form1.resources
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1._0._0.Properties.Resources.resources
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.csproj.GenerateResource.cache
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.dll
+C:\Users\MXO\Documents\Learning\Game Dev\Main Game\QiuzGame1.0.0\QiuzGame1.0.0\obj\Debug\QiuzGame1.0.0.pdb

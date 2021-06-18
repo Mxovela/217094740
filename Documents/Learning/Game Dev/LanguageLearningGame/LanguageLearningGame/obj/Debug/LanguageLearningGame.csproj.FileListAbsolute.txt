@@ -1,0 +1,53 @@
+C:\Users\21930\source\repos\LanguageLearningGame\bin\Debug\LanguageLearningGame.exe.config
+C:\Users\21930\source\repos\LanguageLearningGame\bin\Debug\LanguageLearningGame.exe
+C:\Users\21930\source\repos\LanguageLearningGame\bin\Debug\LanguageLearningGame.pdb
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.csprojAssemblyReference.cache
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.frmMainMenu.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.Properties.Resources.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.csproj.GenerateResource.cache
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.csproj.CoreCompileInputs.cache
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.exe
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.pdb
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.frmStartMenu.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.LearnGreetings.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.LearnGreetingsRound2.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.LearnGreetingsRound3.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.LearnGreetingsRound4.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.IMRound1.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.IMRound2.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.IMRound3.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.IMRound4.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.PhrasesRound1.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.PhrasesRound2.resources
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.PhrasesRound3.resources
+C:\Users\21930\source\repos\LanguageLearningGame\bin\Debug\SplashScreen.dll
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.csproj.CopyComplete
+C:\Users\21930\source\repos\LanguageLearningGame\obj\Debug\LanguageLearningGame.frmSplashScreen.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\bin\Debug\LanguageLearningGame.exe.config
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\bin\Debug\LanguageLearningGame.exe
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\bin\Debug\LanguageLearningGame.pdb
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\bin\Debug\QiuzGame1.0.0.exe
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\bin\Debug\SplashScreen.dll
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\bin\Debug\QiuzGame1.0.0.pdb
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\bin\Debug\QiuzGame1.0.0.exe.config
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.csprojAssemblyReference.cache
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.frmMainMenu.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.frmStartMenu.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.IMRound4.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.IMRound3.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.IMRound2.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.LearnGreetings.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.IMRound1.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.PhrasesRound3.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.PhrasesRound2.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.PhrasesRound1.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.LearnGreetingsRound4.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.LearnGreetingsRound3.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.LearnGreetingsRound2.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.Properties.Resources.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.frmSplashScreen.resources
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.csproj.GenerateResource.cache
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.csproj.CoreCompileInputs.cache
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.csproj.CopyComplete
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.exe
+C:\Users\MXO\Documents\Learning\Game Dev\LanguageLearningGame\LanguageLearningGame\obj\Debug\LanguageLearningGame.pdb
