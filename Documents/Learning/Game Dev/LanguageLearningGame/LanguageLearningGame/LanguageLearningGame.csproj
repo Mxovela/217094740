@@ -287,7 +287,7 @@
     <None Include="Sounds&amp;Images\MatchImages\crow - logo.ico" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\QiuzGame1.0.0.csproj">
+    <ProjectReference Include="QiuzGame1.0.0\QiuzGame1.0.0.csproj">
       <Project>{12BAF26B-B06B-4423-9C41-7B61BBE1636C}</Project>
       <Name>QiuzGame1.0.0</Name>
     </ProjectReference>

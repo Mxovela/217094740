@@ -40,6 +40,7 @@ namespace QiuzGame1._0._0
             // 
             // lblQuestion
             // 
+            this.lblQuestion.BackColor = System.Drawing.Color.Transparent;
             this.lblQuestion.Font = new System.Drawing.Font("Lucida Sans", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblQuestion.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lblQuestion.Location = new System.Drawing.Point(12, 9);
@@ -53,7 +54,7 @@ namespace QiuzGame1._0._0
             // 
             this.button1.Font = new System.Drawing.Font("Lucida Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.button1.Location = new System.Drawing.Point(12, 110);
+            this.button1.Location = new System.Drawing.Point(12, 128);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(350, 350);
             this.button1.TabIndex = 1;
@@ -61,13 +62,13 @@ namespace QiuzGame1._0._0
             this.button1.Text = "button1";
             this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.checkAnswerEvent);
+            this.button1.Click += new System.EventHandler(this.AnsweCheck);
             // 
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Lucida Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.button2.Location = new System.Drawing.Point(382, 110);
+            this.button2.Location = new System.Drawing.Point(382, 128);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(350, 350);
             this.button2.TabIndex = 2;
@@ -75,13 +76,13 @@ namespace QiuzGame1._0._0
             this.button2.Text = "button2";
             this.button2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.checkAnswerEvent);
+            this.button2.Click += new System.EventHandler(this.AnsweCheck);
             // 
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Lucida Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.button3.Location = new System.Drawing.Point(12, 486);
+            this.button3.Location = new System.Drawing.Point(12, 489);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(350, 350);
             this.button3.TabIndex = 3;
@@ -89,13 +90,13 @@ namespace QiuzGame1._0._0
             this.button3.Text = "button3";
             this.button3.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.checkAnswerEvent);
+            this.button3.Click += new System.EventHandler(this.AnsweCheck);
             // 
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Lucida Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.button4.Location = new System.Drawing.Point(382, 486);
+            this.button4.Location = new System.Drawing.Point(382, 489);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(350, 350);
             this.button4.TabIndex = 4;
@@ -103,7 +104,7 @@ namespace QiuzGame1._0._0
             this.button4.Text = "button4";
             this.button4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.checkAnswerEvent);
+            this.button4.Click += new System.EventHandler(this.AnsweCheck);
             // 
             // imageList1
             // 
@@ -115,6 +116,9 @@ namespace QiuzGame1._0._0
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Lime;
+            this.BackgroundImage = global::QiuzGame1._0._0.Properties.Resources.white;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(746, 857);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -122,7 +126,8 @@ namespace QiuzGame1._0._0
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lblQuestion);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Quiz Game";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }

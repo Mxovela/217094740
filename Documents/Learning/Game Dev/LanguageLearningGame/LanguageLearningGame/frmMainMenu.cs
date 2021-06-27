@@ -116,6 +116,7 @@ namespace LanguageLearningGame
         {
             Form1 ft = new Form1();
             ft.Show();
+            this.Hide();
         }
 
         private void btnNumbers2_Click(object sender, EventArgs e)

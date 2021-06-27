@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{12BAF26B-B06B-4423-9C41-7B61BBE1636C}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>QiuzGame1._0._0</RootNamespace>
     <AssemblyName>QiuzGame1.0.0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -31,9 +31,6 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -142,6 +139,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\TV.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\graphics\white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\pop.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

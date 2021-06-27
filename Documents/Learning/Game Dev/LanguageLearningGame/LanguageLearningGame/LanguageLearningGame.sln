@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageLearningGame", "LanguageLearningGame.csproj", "{C6B21540-ECB4-42A5-8C39-907B5425BB61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QiuzGame1.0.0", "..\..\..\..\..\source\repos\QiuzGame1.0.0\QiuzGame1.0.0\QiuzGame1.0.0.csproj", "{12BAF26B-B06B-4423-9C41-7B61BBE1636C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QiuzGame1.0.0", "QiuzGame1.0.0\QiuzGame1.0.0.csproj", "{12BAF26B-B06B-4423-9C41-7B61BBE1636C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
